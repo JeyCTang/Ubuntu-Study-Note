@@ -1,4 +1,0 @@
-Ubuntu系统上，挂载的exfat格式的移动硬盘/U盘不能加载的。
-终端进去，使用：
-sudo apt-get install exfat-utils
-安装这个插件即可
