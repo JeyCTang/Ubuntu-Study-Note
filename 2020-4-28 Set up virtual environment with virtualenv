@@ -12,6 +12,24 @@ instead of through __venv__.
 * [2. Install regulation tool: Virtualenvwrapper](#2)
 
 * [3. How to use virtualenvwrapper to regulate your virtual environment](#3)
+  * [3.1 mkvirtualenv](#3.1)
+  * [3.2 workon](#3.2)
+  * [3.3 leave virtual environment](#3.3)
+  * [3.4 delete environment](#3.4)
+  * [3.5 list environments](#3.5)
+  * [3.6 packages conrol](#3.6)
+  * [3.7 copy environment](#3.7)
+  * [3.8 Execute commands on env](#3.8)
+  * [3.9 create temporary env](#3.9)
+  * [3.10 show virtualenv ](#3.10)
+  * [3.11 enter virtualenv dir](#3.11)
+  * [3.12 change virtualenv dir](#3.12)
+  * [3.13 list packages of virtualenv](#3.13)
+  * [3.14 create new project dir and link it](#3.14)
+  * [3.15 link an existing project and virtualenv](#3.15)
+  * [3.16 switch current dir to a project dir ](#3.16)
+  * [3.17 delete all the third party packages ](#3.17)
+  * [3.18 Help manuals](#3.18)
 
 <h2 id="1"> 1. Install virtualenv</h2>
 
@@ -203,6 +221,6 @@ mkproject [-f|--force] [-t template] [virtualenv_options] ENVNAME
 
 删除当前虚拟环境中安装的所有的第三方包
 
-<h3 id="3.18">virtualenvwrapper</h3>
+<h3 id="3.18">3.18 virtualenvwrapper</h3>
 
 打印virtualenvwrapper支持的命令和命令描述作为简单的帮助文档
